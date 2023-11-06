@@ -1,0 +1,272 @@
+.meniu {
+    background-color: #014D49;
+    display: flex;
+    width: 100%;
+    margin-left: 0;
+    padding: 0;
+    margin-bottom: 0px;
+}
+
+.faraspatiu {
+    margin-bottom: 0px;
+}
+
+.casetameniu {
+    color: white;
+    font-family: 'Agbalumo';
+}
+
+body { 
+    padding:0px; 
+    margin:0px; 
+    width: 100%;
+    } 
+
+.logoprimapag {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    width: 20%;
+    padding-top: 4%;
+}
+
+.descriere {
+    font-family: 'Oswald';
+}
+
+.containermeniu {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    text-align: center;
+
+    
+}
+
+.casetameniua:hover {
+    width: 20%;
+    background-color: #04451A;
+}
+
+.casetameniua {
+    text-decoration:none;
+    width: 20%;
+    margin-bottom: 0px;
+}
+
+.logo {
+    height: 40px;
+    margin-top: 2px;
+    margin-right: 10%;
+    margin-left: 20px;
+}
+
+#continut {
+    width: 96.6%;
+}
+
+.bara {
+    height: 2px;
+    background-color: #014D49;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.descriere {
+    font-family: 'Slabo 27px';
+    font-weight:600;
+    padding-right: 100px;
+    padding-left: 50px;
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+}
+.descriere2 {
+    font-family: 'Slabo 27px';
+    font-weight:600;
+    padding-right: 50px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.motto {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.background_pagina1_1 {
+    background-color: #014D49;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    padding-left: 50px;
+}
+
+.background_pagina1_4 {
+    background-color: #014D49;
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    padding-left: 50px;
+}
+
+.background_pagina1_2 {
+    background-color: #014D49;
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    padding-left: 50px;
+    padding-bottom:50px;
+}
+
+.descriere2_1 {
+    background-color: #014D49;
+    width: 100%;
+    padding-top: 20px;
+  
+    padding-left: 50px;
+    padding-bottom:50px;
+}
+
+.background_pagina1_3 {
+    background-color: #014D49;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    padding-left: 50px;
+
+}
+
+.baradiv {
+    width: 100%;
+    background-color: #014D49;
+    padding-right:50px ;
+    padding-top: 50px;
+}
+
+.text {
+    font-family: 'Kanit';
+    text-align: center;
+    font-size: 55px;
+    margin-top: 0px;
+    padding-top: 5%;
+    color: #DDC4A5;
+    font-weight: 500;
+}
+.background_pagina1 {
+    height: 30%;
+    width: 100%;
+    background-image: url("background1.jpg");
+    background-size: cover;
+    margin-bottom: 0px;
+}
+.background1 {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.imagine1 {
+    width: 100px;
+    height: 100px;
+}
+
+.texticonite {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald';
+    margin-left: 100px;
+    color: white;
+}
+
+.servicii {
+    display: flex;
+    width: 100%;
+    margin-right: 0;
+    padding-right: 50px;
+    background-color: #014D49;
+    padding-top: 50px;
+}
+
+.servicii_1 {
+    width: 30%;
+    background-color: #014D49;
+}
+.servicii_2 {
+    width: 70%;
+    background-color: #014D49;
+    padding-left: 50px;
+}
+
+.servicii_text {
+    text-align: center;
+    padding-top: 40%;
+    font-family: 'Slabo 27px';
+    font-weight:600;
+    font-size: 30px;
+    color: white;
+}
+
+.tarife_text {
+    text-align: center;
+    padding-top: 20%;
+    font-family: 'Slabo 27px';
+    font-weight:600;
+    font-size: 30px;
+    color: white;
+    padding-left: 150px;
+}
+
+.tarife_1 {
+    width: 100%;
+    background-color: #014D49;
+    margin-right: 0px ;
+}
+#tarife {
+    display: flex;
+    width: 100%;
+    margin-right: 0;
+    padding-right: 50px;
+    background-color: #014D49;
+    padding-top: 50px;
+}
+.tarifecaseta {
+    width: 100%;
+    background-color: #014D49;
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+.tarifetext {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.bara1 {
+    height: 2px;
+    background-color: #014D49;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    width: 103.3%;
+
+}
+
+#contact {
+    background-color: #014D49;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    padding-left: 50px;
+    text-align: center;
+}
+.full {
+    width: 100%;
+}
+
+.spatiu {
+    padding-top: 50px;
+}
